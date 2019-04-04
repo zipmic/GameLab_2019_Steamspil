@@ -1,12 +1,16 @@
 fileFormatVersion: 2
-guid: 3dfca091df86142a7946fccdbb56d21e
+guid: f63866950709a414aa094b83aaac8a11
 TextureImporter:
   fileIDToRecycleName:
-    21300000: portalParticle_0
-    21300002: portalParticle_1
-    21300004: portalParticle_2
-    21300006: portalParticle_3
-    21300008: portalParticle_4
+    21300000: Bridge_0
+    21300002: Bridge_1
+    21300004: Bridge_2
+    21300006: Bridge_3
+    21300008: Bridge_4
+    21300010: Bridge_5
+    21300012: Bridge_6
+    21300014: Bridge_7
+    21300016: Bridge_8
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -122,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: portalParticle_0
+      name: Bridge_0
       rect:
         serializedVersion: 2
         x: 0
@@ -136,13 +140,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f0d49812872b43318dc382b3095ee2f
+      spriteID: 105384b5657254c1293fba9ded0bbe14
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: portalParticle_1
+      name: Bridge_1
       rect:
         serializedVersion: 2
         x: 32
@@ -156,13 +160,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1d3e90bfd9744d328f7ad6ae6469a84
+      spriteID: 33ddb87b6cc8d499f9eea857386e7f69
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: portalParticle_2
+      name: Bridge_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c70b70940d8e41df81c75a327c9aa36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_3
       rect:
         serializedVersion: 2
         x: 0
@@ -176,13 +200,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2389173e3e24a4f878b8e90864d0dc9d
+      spriteID: 07249524d1a1e4554acdd9ee84949600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: portalParticle_3
+      name: Bridge_4
       rect:
         serializedVersion: 2
         x: 32
@@ -196,13 +220,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 208ba96feda374dd097757b05ae8d6ec
+      spriteID: 8b86920479c1b40b797b27835ff29f6c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: portalParticle_4
+      name: Bridge_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156dfe692f5f9451eb8632db584f1bfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_6
       rect:
         serializedVersion: 2
         x: 0
@@ -216,7 +260,47 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bcbd3e3281e74cbfb8e3ccaa9726b1e
+      spriteID: 443f9724ad3cf4b0e9808925d897a755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c239e8a2a2b48e5a20307fb5ca6314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e35a7700354e7bbeab1cc85a92740
       vertices: []
       indices: 
       edges: []
@@ -224,7 +308,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9aea4e93169994a0bbbfb0deb4fe7d10
+    spriteID: ca307d9580e584987b0eff3bfd6f38ff
     vertices: []
     indices: 
     edges: []
