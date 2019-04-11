@@ -1,17 +1,13 @@
 fileFormatVersion: 2
-guid: a404fe6c26090c4478b08f6284fd0c8f
+guid: 62df7fb6237706644a7fa27aef3d2983
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Temphouse_0
-    21300002: Temphouse_1
-    21300004: Temphouse_2
-    21300006: Temphouse_3
-    21300008: Temphouse_4
-    21300010: Temphouse_5
-    21300012: Temphouse_6
-    21300014: Temphouse_7
-    21300016: Temphouse_8
-    21300018: Temphouse_9
+    21300000: Other_0
+    21300002: Other_1
+    21300004: Other_2
+    21300006: Other_3
+    21300008: Other_4
+    21300010: Other_5
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -94,7 +90,47 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Temphouse_0
+      name: Other_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2aece0c640c142ac1ea3247245841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Other_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acab09b538c89884fb1f67ed06cfc6f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Other_2
       rect:
         serializedVersion: 2
         x: 0
@@ -108,13 +144,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a629289571ae484e85f9cee62047fd7
+      spriteID: 8205f773bbf402343a5e46f4017f67f4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Temphouse_1
+      name: Other_3
       rect:
         serializedVersion: 2
         x: 32
@@ -128,73 +164,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a140f6f8283d7f4fac41802af27b1c4
+      spriteID: c946cfcca0128d042b5f751f0a0d1ad0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Temphouse_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89ffd54f06db5c445bc5f24019f4994b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Temphouse_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37d99d0b10882684698310cfb95b6702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Temphouse_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cae8795caa6f18a48ad07ff0ad70039d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Temphouse_5
+      name: Other_4
       rect:
         serializedVersion: 2
         x: 0
@@ -208,13 +184,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 286e8bdd55e4901489bcccce26a2581b
+      spriteID: 525b29597b0ad124490ce91e5c600114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Temphouse_6
+      name: Other_5
       rect:
         serializedVersion: 2
         x: 32
@@ -228,67 +204,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f192b0512d3b8e4a8b0529997a1a32f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Temphouse_7
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 852d923c6f245e5468abdb9742733718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Temphouse_8
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 727173c1f26b4334ea291b5086560afe
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Temphouse_9
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab2bfe4c9a119164ea48a7b5c2e2e6f9
+      spriteID: 5329e73735a626d41826c88da5086fe5
       vertices: []
       indices: 
       edges: []
@@ -296,7 +212,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3323abec96d73c74382f88666aba34fd
+    spriteID: 839c91b1f2ef26c488c2a9379c417ae2
     vertices: []
     indices: 
     edges: []
