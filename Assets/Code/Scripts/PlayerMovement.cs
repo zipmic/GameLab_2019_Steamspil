@@ -44,15 +44,8 @@ public class PlayerMovement : MonoBehaviour
             UpdateSpriteDependingOnDirection();
 
         }
-
-        if (Input.GetButton("Run"))
-        {
-            _currentSpeed = RunSpeed;
-        }
-        else
-        {
-            _currentSpeed = Speed;
-        }
+        _currentSpeed = Input.GetButton("Run") ? RunSpeed : Speed;
+        
 
         _animator.SetFloat("Speed",_movement.magnitude);
         _rb.velocity = _movement*Time.deltaTime*_currentSpeed;
